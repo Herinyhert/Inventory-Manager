@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "name": "Batidora",
+        "brand": "Moulinex",
+        "category": "Electrodomestico",
+        "stock": "5",
+        "price": "45.02",
+        "img": "img",
+        "state": "activo"
+    },
+    {
+        "id":"2",
+        "name": "Secador",
+        "brand": "Solac",
+        "category": "Electrodomestico",
+        "stock": "10",
+        "price": "250.00",
+        "img": "img",
+        "state": "activo"
+    },
+    {
+        "id":"3",
+        "name": "Secador",
+        "brand": "Solac",
+        "category": "Electrodomestico",
+        "stock": "10",
+        "price": "250",
+        "img": "img",
+        "state": "activo"
+    }
+  ]

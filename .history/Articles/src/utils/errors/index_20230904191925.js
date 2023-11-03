@@ -1,0 +1,1 @@
+class ClientError extends Error

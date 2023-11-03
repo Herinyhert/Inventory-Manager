@@ -1,0 +1,24 @@
+[
+    {
+      "id": "1",
+      "name": "Tatooine",
+      "rotation_period": "23",
+      "orbital_period": "304",
+      "diameter": "10465",
+      "climate": "arid",
+      "gravity": "1 standard",
+      "terrain": "desert",
+      "surface_water": "1",
+      "residents": ["1", "2", "4", "6", "7", "8", "9", "11", "43", "62"],
+      "films": ["1", "3", "4", "5", "6"]
+    },
+    {
+        name: name,
+        brand: brand,
+        categoryId: categoryId,
+        stock: stock,
+        price: price,
+        img: img,
+        state: state,
+    }
+  ]

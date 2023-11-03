@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "name": "Batidorta",
+        "brand": "Solac",
+        "category": "Electrodomestico",
+        "stock": "10",
+        "price": "250",
+        "img": "img",
+        "state": "activo"
+    },
+    {
+        "id":"2",
+        "name": "Secador",
+        "brand": "Solac",
+        "category": "Electrodomestico",
+        "stock": "10",
+        "price": "250",
+        "img": "img",
+        "state": "activo"
+    },
+    {
+        "id":"2",
+        "name": "Secador",
+        "brand": "Solac",
+        "category": "Electrodomestico",
+        "stock": "10",
+        "price": "250",
+        "img": "img",
+        "state": "activo"
+    }
+  ]
